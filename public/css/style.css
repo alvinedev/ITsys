@@ -1,0 +1,21 @@
+
+.text-center{text-align:center;}
+nav{margin: 0 !important;}
+.header-text{
+	/*color:green;*/
+	border-bottom: 1px solid black;
+	margin-bottom:10px;
+}
+.subject-info-text{
+	font-size:13px;
+}
+.subject-cont-text{
+	font-size:20px;
+}
+.table-des1 tr td{padding:10px;}
+.table-des1 tr th{width: 150px;text-align:right;}
+
+.actual_container{border-bottom: 1px solid black;text-align: center;font-size: 30px}
+.actual_text{text-align:center;font-size: 10px;font-weight: bold}
+
+.his_date_text{border-bottom: 1px solid black;font-size:16px;text-align:center;}
